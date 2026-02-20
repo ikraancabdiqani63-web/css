@@ -1,0 +1,23 @@
+h1 {
+  /* rgb means red green blue  */
+  /* color: rgb(0, 125, 125) ; */
+  /* hexadecimal */
+  color: #f0f;
+}
+
+p {
+  color: rgb(0, 125, 255);
+}
+
+body {
+  background-color: #fff;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+  background-color: rgba(255, 0, 0, 0.4);
+  color: white;
+  /* a stands for alpha */
+  /* opacity and alpha has same meaning */
+}

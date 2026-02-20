@@ -1,0 +1,10 @@
+body {
+    background-color: bisque; 
+    background-image: url(https://img.freepik.com/free-photo/sunset-time-tropical-beach-sea-with-coconut-palm-tree_74190-1075.jpg);
+ background-repeat: no-repeat;
+background-position: center;
+ background-size: cover;
+background-attachment: fixed; 
+/* short hand */
+/* background: bisque url("https://img.freepik.com/free-photo/sunset-time-tropical-beach-sea-with-coconut-palm-tree_74190-1075.jpg") no-repeat cover fixed; */
+}
