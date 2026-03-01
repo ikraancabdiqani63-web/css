@@ -1,0 +1,19 @@
+img {
+  float: left;
+  margin-right: 10px;
+}
+
+h1 {
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+p {
+  line-height: 1.5;
+  color: #666;
+}
+
+body {
+  background-color: #d0e8ff;
+  padding: 20px;
+}

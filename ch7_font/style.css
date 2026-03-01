@@ -1,0 +1,21 @@
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Arial", sans-serif;
+  font-variant: small-caps;
+  word-spacing: 10px;
+  color: blue;
+}
+
+p {
+  font-size: 20px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: "Times New Roman", serif;
+  font-variant: normal;
+  word-spacing: 10px;
+  line-height: 30px;
+  /* letter-spacing: 2px; */
+  color: black;
+}

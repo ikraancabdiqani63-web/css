@@ -1,0 +1,9 @@
+p {
+  background-color: red;
+  display: inline;
+}
+span {
+  background-color: blue;
+  display: block;
+  margin-bottom: 10px;
+}
